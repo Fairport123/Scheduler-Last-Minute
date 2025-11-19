@@ -1,0 +1,5 @@
+{
+  "name": "Time Slot Opportunity Scheduler",
+  "description": "An application for coordinating last-minute appointments between Service Providers, Receivers, and Facilitators based on availability constraints.",
+  "requestFramePermissions": []
+}
